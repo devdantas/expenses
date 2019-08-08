@@ -1,0 +1,32 @@
+$dark: #000 !important;
+$darker: #111 !important;
+$darker-medium: #333 !important;
+$darker-low: #666 !important;
+$light-low: #999 !important;
+$light-medium: #ddd !important;
+$ligther: #ddd !important;
+$light: #fff !important;
+
+$featured: #ff9900;
+$featured-dark: #d68100;
+
+:root{
+  --dark: #{$dark};
+  --darker: #{$darker};
+  --darker-medium: #{$darker-medium};
+  --darker-low: #{$darker-low};
+  --light-low: #{$light-low};
+  --light-medium: #{$light-medium};
+  --ligther: #{$ligther};
+  --light:#{$light};
+  --featured: #{$featured};
+  --featured-dark: #{$featured-dark};
+
+}
+
+.home .home-box small{
+
+}
+.home .home-box .money{
+  
+}
